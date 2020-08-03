@@ -1,0 +1,2482 @@
+[4/1/2017 4:51:31 PM][SearchAgent.Start]: waiting on key !
+[4/1/2017 4:51:39 PM][SearchAgent.Update]: Visited: 28795
+[4/1/2017 4:51:39 PM][SearchAgent.Update]: Expanded: 73868
+[4/1/2017 4:51:39 PM][SearchAgent.Update]: Building solution path
+[4/1/2017 4:51:39 PM][SearchAgent.Update]: Saving path!
+[4/1/2017 4:51:39 PM][SearchAgent.Update]: done.. !
+[4/1/2017 4:51:39 PM][SearchAgent.Update]: [East,South,South,South,South,East,South,South,West,West,North,East,East,South,East,North,West,North,East,East,East,South,East,North,North,South,West,West,West,West,West,North,North,North,North,West,West,South,East,North,East,South,South,South,South,East,South,South,West,West,North,East,East,South,East,North,West,North,East,East,East,South,East,North,West,West,West,West,West,North,North,North,West,West,South,East,North,East,South,South,South,East,South,South,West,West,North,East,East,South,East,North,West,North,East,East,East]
+[4/1/2017 5:18:36 PM][SearchAgent.Start]: waiting on key !
+[4/1/2017 5:19:38 PM][SearchAgent.Start]: waiting on key !
+[4/1/2017 5:20:42 PM][SearchAgent.Start]: waiting on key !
+[4/1/2017 5:22:10 PM][SearchAgent.Start]: waiting on key !
+[4/1/2017 5:23:06 PM][SearchAgent.Start]: waiting on key !
+[4/1/2017 5:23:43 PM][SearchAgent.Start]: waiting on key !
+[4/1/2017 5:23:43 PM][SearchAgent.Update]: Visited: 21
+[4/1/2017 5:23:43 PM][SearchAgent.Update]: Expanded: 55
+[4/1/2017 5:23:43 PM][SearchAgent.Update]: Building solution path
+[4/1/2017 5:23:43 PM][SearchAgent.Update]: Saving path!
+[4/1/2017 5:23:43 PM][SearchAgent.Update]: done.. !
+[4/1/2017 5:23:43 PM][SearchAgent.Update]: [North,North,North,North,West]
+[4/1/2017 5:23:54 PM][SearchAgent.Start]: waiting on key !
+[4/1/2017 5:23:55 PM][SearchAgent.Update]: Visited: 20
+[4/1/2017 5:23:55 PM][SearchAgent.Update]: Expanded: 53
+[4/1/2017 5:23:55 PM][SearchAgent.Update]: Building solution path
+[4/1/2017 5:23:55 PM][SearchAgent.Update]: Saving path!
+[4/1/2017 5:23:55 PM][SearchAgent.Update]: done.. !
+[4/1/2017 5:23:55 PM][SearchAgent.Update]: [North,North,North,North,West]
+[4/1/2017 5:24:11 PM][SearchAgent.Start]: waiting on key !
+[4/1/2017 5:24:12 PM][SearchAgent.Update]: Visited: 395
+[4/1/2017 5:24:12 PM][SearchAgent.Update]: Expanded: 1149
+[4/1/2017 5:24:12 PM][SearchAgent.Update]: Building solution path
+[4/1/2017 5:24:12 PM][SearchAgent.Update]: Saving path!
+[4/1/2017 5:24:12 PM][SearchAgent.Update]: done.. !
+[4/1/2017 5:24:12 PM][SearchAgent.Update]: [North,East,West,West,South,East,South,West]
+[4/1/2017 5:24:28 PM][SearchAgent.Start]: waiting on key !
+[4/1/2017 5:24:30 PM][SearchAgent.Update]: Visited: 187
+[4/1/2017 5:24:30 PM][SearchAgent.Update]: Expanded: 564
+[4/1/2017 5:24:30 PM][SearchAgent.Update]: Building solution path
+[4/1/2017 5:24:30 PM][SearchAgent.Update]: Saving path!
+[4/1/2017 5:24:31 PM][SearchAgent.Update]: done.. !
+[4/1/2017 5:24:31 PM][SearchAgent.Update]: [North,East,West,West,South,East,South,West]
+[4/1/2017 5:24:48 PM][SearchAgent.Start]: waiting on key !
+[4/1/2017 5:25:41 PM][SearchAgent.Start]: waiting on key !
+[4/1/2017 5:25:59 PM][SearchAgent.Start]: waiting on key !
+[4/1/2017 5:26:01 PM][SearchAgent.Update]: Visited: 13126
+[4/1/2017 5:26:01 PM][SearchAgent.Update]: Expanded: 31822
+[4/1/2017 5:26:01 PM][SearchAgent.Update]: Building solution path
+[4/1/2017 5:26:01 PM][SearchAgent.Update]: Saving path!
+[4/1/2017 5:26:01 PM][SearchAgent.Update]: done.. !
+[4/1/2017 5:26:01 PM][SearchAgent.Update]: [North,East,South,South,South,East,East,East,North,North,West,West,West,West,East,South,South,West,South,South,East,North,North,North,South,East,East,East,North,North,West,West,North,West,West,South,East,East,East,West,North,West,West,West,West,South,East,East,East,East]
+[4/1/2017 5:26:15 PM][SearchAgent.Start]: waiting on key !
+[4/1/2017 5:26:16 PM][SearchAgent.Update]: Visited: 8174
+[4/1/2017 5:26:16 PM][SearchAgent.Update]: Expanded: 19941
+[4/1/2017 5:26:16 PM][SearchAgent.Update]: Building solution path
+[4/1/2017 5:26:16 PM][SearchAgent.Update]: Saving path!
+[4/1/2017 5:26:16 PM][SearchAgent.Update]: done.. !
+[4/1/2017 5:26:16 PM][SearchAgent.Update]: [North,East,South,South,South,East,East,East,North,North,West,West,West,West,East,South,South,West,South,South,East,North,North,North,South,East,East,East,North,North,West,West,North,West,West,South,East,East,East,West,West,North,West,West,West,South,East,East,East,East]
+[4/1/2017 5:30:30 PM][SearchAgent.Start]: waiting on key !
+[4/1/2017 5:30:41 PM][SearchAgent.Start]: waiting on key !
+[4/1/2017 5:30:48 PM][SearchAgent.Start]: waiting on key !
+[4/1/2017 5:31:08 PM][SearchAgent.Start]: waiting on key !
+[4/1/2017 5:36:20 PM][SearchAgent.Start]: waiting on key !
+[4/1/2017 5:44:12 PM][SearchAgent.Start]: waiting on key !
+[4/1/2017 5:45:06 PM][SearchAgent.Start]: waiting on key !
+[4/1/2017 5:52:05 PM][SearchAgent.Start]: waiting on key !
+[4/1/2017 5:53:16 PM][SearchAgent.Start]: waiting on key !
+[4/1/2017 5:53:44 PM][SearchAgent.Start]: waiting on key !
+[4/1/2017 7:40:41 PM][SearchAgent.Start]: waiting on key !
+[4/1/2017 7:40:42 PM][SearchAgent.Update]: Visited: 28793
+[4/1/2017 7:40:42 PM][SearchAgent.Update]: Expanded: 73864
+[4/1/2017 7:40:42 PM][SearchAgent.Update]: Building solution path
+[4/1/2017 7:40:42 PM][SearchAgent.Update]: Saving path!
+[4/1/2017 7:40:42 PM][SearchAgent.Update]: done.. !
+[4/1/2017 7:40:42 PM][SearchAgent.Update]: [East,South,South,South,South,East,South,South,West,West,North,East,East,South,East,North,West,North,East,East,East,South,East,North,North,South,West,West,West,West,West,North,North,North,North,West,West,South,East,North,East,South,South,South,South,East,South,South,West,West,North,East,East,South,East,North,West,North,East,East,East,South,East,North,West,West,West,West,West,North,North,North,West,West,South,East,North,East,South,South,South,East,South,South,West,West,North,East,East,South,East,North,West,North,East,East,East]
+[4/1/2017 7:41:02 PM][SearchAgent.Start]: waiting on key !
+[4/1/2017 7:41:03 PM][SearchAgent.Update]: Visited: 1767
+[4/1/2017 7:41:03 PM][SearchAgent.Update]: Expanded: 4641
+[4/1/2017 7:41:03 PM][SearchAgent.Update]: Building solution path
+[4/1/2017 7:41:03 PM][SearchAgent.Update]: Saving path!
+[4/1/2017 7:41:03 PM][SearchAgent.Update]: done.. !
+[4/1/2017 7:41:03 PM][SearchAgent.Update]: [South,East,South,South,South,West,West,North,East,East,North,East,South,South,North,North,West,North,West,South,South,South,North,North,North,North,North,East,South,South,South,South,East,South,West,West,North,West,South]
+[4/1/2017 7:41:25 PM][SearchAgent.Start]: waiting on key !
+[4/1/2017 7:41:29 PM][SearchAgent.Update]: Visited: 181196
+[4/1/2017 7:41:29 PM][SearchAgent.Update]: Expanded: 470834
+[4/1/2017 7:41:29 PM][SearchAgent.Update]: Building solution path
+[4/1/2017 7:41:29 PM][SearchAgent.Update]: Saving path!
+[4/1/2017 7:41:29 PM][SearchAgent.Update]: done.. !
+[4/1/2017 7:41:29 PM][SearchAgent.Update]: [North,West,West,West,West,West,West,West,West,North,West,West,South,East,East,East,East,East,East,East,East,East,East,East,East,East,East,East,West,West,West,West,West,West,West,West,North,North,North,West,North,West,West,South,South,South,North,North,West,West,South,South,South,East,East,East,East,East,East,East,East,East,East,East,East,West,West,West,West,West,West,West,North,North,North,West,West,North,West,South,South,South,North,North,West,West,South,South,South,East,East,East,East,East,East,East,East,East,East,East,North,East,South,West,South,East,East,West,North,West,West,West,West,West,West,West,North,North,North,West,North,North,North,West,West,South,South,South,South,South,North,North,West,West,South,South,South,East,East,East,East,East,East,East,East,East,East,East,South,East,North,West,North,East,East]
+[4/1/2017 7:41:55 PM][SearchAgent.Start]: waiting on key !
+[4/1/2017 7:43:58 PM][SearchAgent.Update]: Visited: 4183703
+[4/1/2017 7:43:58 PM][SearchAgent.Update]: Expanded: 10299021
+[4/1/2017 7:43:58 PM][SearchAgent.Update]: Building solution path
+[4/1/2017 7:43:58 PM][SearchAgent.Update]: Saving path!
+[4/1/2017 7:43:58 PM][SearchAgent.Update]: done.. !
+[4/1/2017 7:43:58 PM][SearchAgent.Update]: [North,West,West,West,North,North,North,West,North,West,West,South,West,West,South,South,South,East,East,East,East,East,East,East,East,East,East,East,East,East,West,West,West,West,West,West,West,West,West,West,West,West,West,North,West,West,South,East,East,East,East,East,East,East,East,East,East,East,East,East,East,North,East,South,West,West,West,West,West,West,West,West,North,North,North,West,North,West,West,South,South,South,North,North,West,West,South,South,South,East,East,East,East,East,East,East,East,East,East,East,East,South,East,North,West,West,West,West,West,West,West,West,North,North,North,West,West,North,West,South,South,South,North,North,West,West,South,South,South,East,East,East,East,East,East,East,East,East,East,East,East,North,East,South,West,West,West,West,West,West,West,West,North,North,North,West,North,West,North,North,West,South,South,South,South,South,North,North,West,West,South,South,South,East,East,East,East,East,East,East,East,East,East,East,East,West,West,West,West,West,West,West,North,North,North,West,North,West,North,North,East,South,South,West,South,West,South,South,South,East,East,East,North,North,North,West,West,North,West,South,South,South,North,North,West,West,South,South,South,East,East,East,East,East,East,East,East,East,East,East,South,East,North,West,North,East]
+[4/1/2017 7:46:12 PM][SearchAgent.Start]: waiting on key !
+[4/1/2017 7:46:27 PM][SearchAgent.Start]: waiting on key !
+[4/1/2017 7:46:28 PM][SearchAgent.Update]: Visited: 9542
+[4/1/2017 7:46:28 PM][SearchAgent.Update]: Expanded: 21360
+[4/1/2017 7:46:28 PM][SearchAgent.Update]: Building solution path
+[4/1/2017 7:46:28 PM][SearchAgent.Update]: Saving path!
+[4/1/2017 7:46:28 PM][SearchAgent.Update]: done.. !
+[4/1/2017 7:46:28 PM][SearchAgent.Update]: [East,South,South,East,East,North,North,West,West,East,East,South,South,East,East,North,North,North,North,North,East,East,South,South,South,West,East,North,North,North,West,West,South,South,South,West,West,South,South,East,East,North,North,North,North,South,South,South,South,West,West,West,West,North,North,East,East,East,West,South,South,East,East,North,North,North,South,South,South,West,West,West,West,West,West,North,North,East,East,East,East,East,West,South,South,East,East,North,North]
+[4/1/2017 7:46:42 PM][SearchAgent.Start]: waiting on key !
+[4/1/2017 7:46:43 PM][SearchAgent.Update]: Visited: 1767
+[4/1/2017 7:46:43 PM][SearchAgent.Update]: Expanded: 4641
+[4/1/2017 7:46:43 PM][SearchAgent.Update]: Building solution path
+[4/1/2017 7:46:43 PM][SearchAgent.Update]: Saving path!
+[4/1/2017 7:46:43 PM][SearchAgent.Update]: done.. !
+[4/1/2017 7:46:43 PM][SearchAgent.Update]: [South,East,South,South,South,West,West,North,East,East,North,East,South,South,North,North,West,North,West,South,South,South,North,North,North,North,North,East,South,South,South,South,East,South,West,West,North,West,South]
+[4/1/2017 7:47:08 PM][SearchAgent.Start]: waiting on key !
+[4/1/2017 7:47:09 PM][SearchAgent.Update]: Visited: 9099
+[4/1/2017 7:47:09 PM][SearchAgent.Update]: Expanded: 21967
+[4/1/2017 7:47:09 PM][SearchAgent.Update]: Building solution path
+[4/1/2017 7:47:09 PM][SearchAgent.Update]: Saving path!
+[4/1/2017 7:47:09 PM][SearchAgent.Update]: done.. !
+[4/1/2017 7:47:09 PM][SearchAgent.Update]: [North,East,South,East,West,South,South,East,East,East,North,North,West,West,West,West,East,South,South,West,South,South,East,North,North,North,South,East,East,East,North,North,West,West,North,West,West,South,East,East,East,West,North,West,West,West,West,South,East,East,East,East]
+[4/1/2017 7:47:19 PM][SearchAgent.Start]: waiting on key !
+[4/1/2017 7:53:32 PM][SearchAgent.Start]: waiting on key !
+[4/1/2017 7:53:34 PM][SearchAgent.Update]: Visited: 3506
+[4/1/2017 7:53:34 PM][SearchAgent.Update]: Expanded: 9568
+[4/1/2017 7:53:34 PM][SearchAgent.Update]: Building solution path
+[4/1/2017 7:53:34 PM][SearchAgent.Update]: Saving path!
+[4/1/2017 7:53:34 PM][SearchAgent.Update]: done.. !
+[4/1/2017 7:53:34 PM][SearchAgent.Update]: [North,East,West,West,North,East,East,South,West,South,South,East,West,West,North,North,East,North,West,East,South,South,South,East,South,West,West,North,North,North,East,East,South,South,West,South,East]
+[4/2/2017 2:02:29 AM][SearchAgent.Start]: waiting on key !
+[4/2/2017 2:02:34 AM][SearchAgent.Update]: Visited: 134251
+[4/2/2017 2:02:34 AM][SearchAgent.Update]: Expanded: 382032
+[4/2/2017 2:02:34 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 2:02:34 AM][SearchAgent.Update]: Saving path!
+[4/2/2017 2:02:34 AM][SearchAgent.Update]: done.. !
+[4/2/2017 2:02:34 AM][SearchAgent.Update]: [North,East,North,West,South,South,South,East,West,West,South,East,East,North,North,North,West,North,East,West,West,East,South,West,South,South,East,South,West]
+[4/2/2017 2:02:54 AM][SearchAgent.Start]: waiting on key !
+[4/2/2017 2:23:05 AM][SearchAgent.Start]: waiting on key !
+[4/2/2017 2:24:27 AM][SearchAgent.Start]: waiting on key !
+[4/2/2017 2:24:53 AM][SearchAgent.Start]: waiting on key !
+[4/2/2017 2:33:04 AM][SearchAgent.Start]: waiting on key !
+[4/2/2017 2:33:05 AM][SearchAgent.Update]: Visited: 1767
+[4/2/2017 2:33:05 AM][SearchAgent.Update]: Expanded: 4641
+[4/2/2017 2:33:05 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 2:33:05 AM][SearchAgent.Update]: Saving path!
+[4/2/2017 2:33:05 AM][SearchAgent.Update]: done.. !
+[4/2/2017 2:33:05 AM][SearchAgent.Update]: [South,East,South,South,South,West,West,North,East,East,North,East,South,South,North,North,West,North,West,South,South,South,North,North,North,North,North,East,South,South,South,South,East,South,West,West,North,West,South]
+[4/2/2017 2:33:29 AM][SearchAgent.Start]: waiting on key !
+[4/2/2017 2:37:04 AM][SearchAgent.Start]: waiting on key !
+[4/2/2017 2:38:59 AM][SearchAgent.Start]: waiting on key !
+[4/2/2017 2:54:39 AM][SearchAgent.Start]: waiting on key !
+[4/2/2017 2:54:40 AM][SearchAgent.Update]: Visited: 1767
+[4/2/2017 2:54:40 AM][SearchAgent.Update]: Expanded: 4641
+[4/2/2017 2:54:40 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 2:54:40 AM][SearchAgent.Update]: Saving path!
+[4/2/2017 2:54:40 AM][SearchAgent.Update]: done.. !
+[4/2/2017 2:54:40 AM][SearchAgent.Update]: [South,East,South,South,South,West,West,North,East,East,North,East,South,South,North,North,West,North,West,South,South,South,North,North,North,North,North,East,South,South,South,South,East,South,West,West,North,West,South]
+[4/2/2017 3:00:40 AM][SearchAgent.Start]: waiting on key !
+[4/2/2017 3:00:42 AM][SearchAgent.Update]: Visited: 1767
+[4/2/2017 3:00:42 AM][SearchAgent.Update]: Expanded: 4641
+[4/2/2017 3:00:42 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:00:42 AM][SearchAgent.Update]: Saving path!
+[4/2/2017 3:00:42 AM][SearchAgent.Update]: done.. !
+[4/2/2017 3:00:42 AM][SearchAgent.Update]: [South,East,South,South,South,West,West,North,East,East,North,East,South,South,North,North,West,North,West,South,South,South,North,North,North,North,North,East,South,South,South,South,East,South,West,West,North,West,South]
+[4/2/2017 3:02:05 AM][SearchAgent.Start]: waiting on key !
+[4/2/2017 3:02:25 AM][SearchAgent.Start]: waiting on key !
+[4/2/2017 3:03:13 AM][SearchAgent.Start]: waiting on key !
+[4/2/2017 3:03:14 AM][SearchAgent.Update]: Visited: 1767
+[4/2/2017 3:03:14 AM][SearchAgent.Update]: Expanded: 4641
+[4/2/2017 3:03:14 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:03:14 AM][SearchAgent.Update]: Saving path!
+[4/2/2017 3:03:14 AM][SearchAgent.Update]: done.. !
+[4/2/2017 3:03:14 AM][SearchAgent.Update]: [South,East,South,South,South,West,West,North,East,East,North,East,South,South,North,North,West,North,West,South,South,South,North,North,North,North,North,East,South,South,South,South,East,South,West,West,North,West,South]
+[4/2/2017 3:03:23 AM][SearchAgent.Start]: waiting on key !
+[4/2/2017 3:03:39 AM][SearchAgent.Start]: waiting on key !
+[4/2/2017 3:03:46 AM][SearchAgent.Start]: waiting on key !
+[4/2/2017 3:03:46 AM][SearchAgent.Update]: Visited: 1767
+[4/2/2017 3:03:46 AM][SearchAgent.Update]: Expanded: 4641
+[4/2/2017 3:03:46 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:03:46 AM][SearchAgent.Update]: Saving path!
+[4/2/2017 3:03:46 AM][SearchAgent.Update]: done.. !
+[4/2/2017 3:03:46 AM][SearchAgent.Update]: [South,East,South,South,South,West,West,North,East,East,North,East,South,South,North,North,West,North,West,South,South,South,North,North,North,North,North,East,South,South,South,South,East,South,West,West,North,West,South]
+[4/2/2017 3:04:14 AM][SearchAgent.Start]: waiting on key !
+[4/2/2017 3:04:25 AM][SearchAgent.Start]: waiting on key !
+[4/2/2017 3:04:35 AM][SearchAgent.Start]: waiting on key !
+[4/2/2017 3:04:41 AM][SearchAgent.Start]: waiting on key !
+[4/2/2017 3:04:55 AM][SearchAgent.Start]: waiting on key !
+[4/2/2017 3:04:56 AM][SearchAgent.Update]: Visited: 1767
+[4/2/2017 3:04:56 AM][SearchAgent.Update]: Expanded: 4641
+[4/2/2017 3:04:56 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:04:56 AM][SearchAgent.Update]: Saving path!
+[4/2/2017 3:04:56 AM][SearchAgent.Update]: done.. !
+[4/2/2017 3:04:56 AM][SearchAgent.Update]: [South,East,South,South,South,West,West,North,East,East,North,East,South,South,North,North,West,North,West,South,South,South,North,North,North,North,North,East,South,South,South,South,East,South,West,West,North,West,South]
+[4/2/2017 3:05:12 AM][SearchAgent.Start]: waiting on key !
+[4/2/2017 3:05:12 AM][SearchAgent.Update]: Visited: 1767
+[4/2/2017 3:05:12 AM][SearchAgent.Update]: Expanded: 4641
+[4/2/2017 3:05:12 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:05:12 AM][SearchAgent.Update]: Saving path!
+[4/2/2017 3:05:12 AM][SearchAgent.Update]: done.. !
+[4/2/2017 3:05:12 AM][SearchAgent.Update]: [South,East,South,South,South,West,West,North,East,East,North,East,South,South,North,North,West,North,West,South,South,South,North,North,North,North,North,East,South,South,South,South,East,South,West,West,North,West,South]
+[4/2/2017 3:07:23 AM][SearchAgent.Start]: waiting on key !
+[4/2/2017 3:07:48 AM][SearchAgent.Start]: waiting on key !
+[4/2/2017 3:08:10 AM][SearchAgent.Start]: waiting on key !
+[4/2/2017 3:08:16 AM][SearchAgent.Start]: waiting on key !
+[4/2/2017 3:08:55 AM][SearchAgent.Start]: waiting on key !
+[4/2/2017 3:09:02 AM][SearchAgent.Start]: waiting on key !
+[4/2/2017 3:09:36 AM][SearchAgent.Start]: waiting on key !
+[4/2/2017 3:09:36 AM][SearchAgent.Update]: Visited: 1767
+[4/2/2017 3:09:36 AM][SearchAgent.Update]: Expanded: 4641
+[4/2/2017 3:09:36 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:09:36 AM][SearchAgent.Update]: Saving path!
+[4/2/2017 3:09:36 AM][SearchAgent.Update]: done.. !
+[4/2/2017 3:09:36 AM][SearchAgent.Update]: [South,East,South,South,South,West,West,North,East,East,North,East,South,South,North,North,West,North,West,South,South,South,North,North,North,North,North,East,South,South,South,South,East,South,West,West,North,West,South]
+[4/2/2017 3:10:04 AM][SearchAgent.Start]: waiting on key !
+[4/2/2017 3:10:47 AM][SearchAgent.Start]: waiting on key !
+[4/2/2017 3:10:54 AM][SearchAgent.Start]: waiting on key !
+[4/2/2017 3:10:55 AM][SearchAgent.Update]: Visited: 1767
+[4/2/2017 3:10:55 AM][SearchAgent.Update]: Expanded: 4641
+[4/2/2017 3:10:55 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:10:55 AM][SearchAgent.Update]: Saving path!
+[4/2/2017 3:10:55 AM][SearchAgent.Update]: done.. !
+[4/2/2017 3:10:55 AM][SearchAgent.Update]: [South,East,South,South,South,West,West,North,East,East,North,East,South,South,North,North,West,North,West,South,South,South,North,North,North,North,North,East,South,South,South,South,East,South,West,West,North,West,South]
+[4/2/2017 3:11:15 AM][SearchAgent.Start]: waiting on key !
+[4/2/2017 3:11:36 AM][SearchAgent.Start]: waiting on key !
+[4/2/2017 3:11:37 AM][SearchAgent.Update]: Visited: 22
+[4/2/2017 3:11:37 AM][SearchAgent.Update]: Expanded: 58
+[4/2/2017 3:11:37 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:11:37 AM][SearchAgent.Update]: Saving path!
+[4/2/2017 3:11:37 AM][SearchAgent.Update]: done.. !
+[4/2/2017 3:11:37 AM][SearchAgent.Update]: [North,North,North,North,West]
+[4/2/2017 3:11:50 AM][SearchAgent.Start]: waiting on key !
+[4/2/2017 3:11:50 AM][SearchAgent.Update]: Visited: 386
+[4/2/2017 3:11:50 AM][SearchAgent.Update]: Expanded: 1123
+[4/2/2017 3:11:50 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:11:50 AM][SearchAgent.Update]: Saving path!
+[4/2/2017 3:11:50 AM][SearchAgent.Update]: done.. !
+[4/2/2017 3:11:50 AM][SearchAgent.Update]: [North,East,West,West,South,East,South,West]
+[4/2/2017 3:12:08 AM][SearchAgent.Start]: waiting on key !
+[4/2/2017 3:12:09 AM][SearchAgent.Update]: Visited: 59011
+[4/2/2017 3:12:09 AM][SearchAgent.Update]: Expanded: 176211
+[4/2/2017 3:12:09 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:12:09 AM][SearchAgent.Update]: Saving path!
+[4/2/2017 3:12:09 AM][SearchAgent.Update]: done.. !
+[4/2/2017 3:12:09 AM][SearchAgent.Update]: [North,West,South,East,South,West,South,East,East,East,North,West,West,North,West,North,East,East]
+[4/2/2017 3:12:18 AM][SearchAgent.Start]: waiting on key !
+[4/2/2017 3:12:19 AM][SearchAgent.Update]: Visited: 767
+[4/2/2017 3:12:19 AM][SearchAgent.Update]: Expanded: 2301
+[4/2/2017 3:12:19 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:12:19 AM][SearchAgent.Update]: Saving path!
+[4/2/2017 3:12:19 AM][SearchAgent.Update]: done.. !
+[4/2/2017 3:12:19 AM][SearchAgent.Update]: [North,West,South,East,South,West,North,North,East,East]
+[4/2/2017 3:12:36 AM][SearchAgent.Start]: waiting on key !
+[4/2/2017 3:12:37 AM][SearchAgent.Update]: Visited: 187
+[4/2/2017 3:12:37 AM][SearchAgent.Update]: Expanded: 564
+[4/2/2017 3:12:37 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:12:37 AM][SearchAgent.Update]: Saving path!
+[4/2/2017 3:12:37 AM][SearchAgent.Update]: done.. !
+[4/2/2017 3:12:37 AM][SearchAgent.Update]: [North,East,West,West,South,East,South,West]
+[4/2/2017 3:13:10 AM][SearchAgent.Start]: waiting on key !
+[4/2/2017 3:13:10 AM][SearchAgent.Update]: Visited: 30
+[4/2/2017 3:13:10 AM][SearchAgent.Update]: Expanded: 96
+[4/2/2017 3:13:10 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:13:10 AM][SearchAgent.Update]: Saving path!
+[4/2/2017 3:13:10 AM][SearchAgent.Update]: done.. !
+[4/2/2017 3:13:10 AM][SearchAgent.Update]: [North,East,West,West,South,East,South,West]
+[4/2/2017 3:13:36 AM][SearchAgent.Start]: waiting on key !
+[4/2/2017 3:13:40 AM][SearchAgent.Update]: Visited: 1767
+[4/2/2017 3:13:40 AM][SearchAgent.Update]: Expanded: 4641
+[4/2/2017 3:13:40 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:13:40 AM][SearchAgent.Update]: Saving path!
+[4/2/2017 3:13:40 AM][SearchAgent.Update]: done.. !
+[4/2/2017 3:13:40 AM][SearchAgent.Update]: [South,East,South,South,South,West,West,North,East,East,North,East,South,South,North,North,West,North,West,South,South,South,North,North,North,North,North,East,South,South,South,South,East,South,West,West,North,West,South]
+[4/2/2017 3:14:02 AM][SearchAgent.Start]: waiting on key !
+[4/2/2017 3:14:15 AM][SearchAgent.Start]: waiting on key !
+[4/2/2017 3:14:31 AM][SearchAgent.Start]: waiting on key !
+[4/2/2017 3:14:34 AM][SearchAgent.Update]: Visited: 1767
+[4/2/2017 3:14:34 AM][SearchAgent.Update]: Expanded: 4641
+[4/2/2017 3:14:34 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:14:34 AM][SearchAgent.Update]: Saving path!
+[4/2/2017 3:14:34 AM][SearchAgent.Update]: done.. !
+[4/2/2017 3:14:34 AM][SearchAgent.Update]: [South,East,South,South,South,West,West,North,East,East,North,East,South,South,North,North,West,North,West,South,South,South,North,North,North,North,North,East,South,South,South,South,East,South,West,West,North,West,South]
+[4/2/2017 3:14:47 AM][SearchAgent.Start]: waiting on key !
+[4/2/2017 3:14:57 AM][SearchAgent.Update]: Visited: 442260
+[4/2/2017 3:14:57 AM][SearchAgent.Update]: Expanded: 1234389
+[4/2/2017 3:14:57 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:14:57 AM][SearchAgent.Update]: Saving path!
+[4/2/2017 3:14:57 AM][SearchAgent.Update]: done.. !
+[4/2/2017 3:14:57 AM][SearchAgent.Update]: [South,East,South,South,South,West,West,North,East,East,North,North,West,South,South,South,North,North,North,North,North,East,South,South,South,South,North,East,South,South,West,West,North,West,South]
+[4/2/2017 3:32:50 AM][SearchAgent.Start]: waiting on key !
+[4/2/2017 3:33:24 AM][SearchAgent.Start]: waiting on key !
+[4/2/2017 3:34:14 AM][SearchAgent.Start]: waiting on key !
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:18 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:19 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:20 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:21 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:21 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:21 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:21 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:21 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:21 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:21 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:21 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:21 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:21 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:21 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:21 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:21 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:21 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:21 AM][SearchAgent.Update]: Building solu[4/2/2017 3:34:23 AM][SearchAgent.Start]: waiting on key !
+[4/2/2017 3:34:30 AM][SearchAgent.Start]: waiting on key !
+[4/2/2017 3:34:32 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:32 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:32 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:32 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:32 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:32 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:32 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:32 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:32 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:32 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:32 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:32 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:32 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:32 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:32 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:32 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:32 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:32 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:32 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:32 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:32 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:32 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:32 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:32 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:32 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:32 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:32 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:32 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:32 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:32 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:32 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:32 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:32 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:32 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:32 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:32 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:32 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:32 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:32 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:32 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:32 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:32 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:32 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:32 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:32 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:32 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:32 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:32 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Visited: 73658
+[4/2/2017 3:34:33 AM][SearchAgent.Update]: Expanded: 211078
+[4/2/2017 3:3[4/2/2017 3:34:41 AM][SearchAgent.Start]: waiting on key !
+[4/2/2017 3:34:42 AM][SearchAgent.Update]: Visited: 32029
+[4/2/2017 3:34:42 AM][SearchAgent.Update]: Expanded: 90960
+[4/2/2017 3:34:42 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:34:42 AM][SearchAgent.Update]: Saving path!
+[4/2/2017 3:34:42 AM][SearchAgent.Update]: done.. !
+[4/2/2017 3:34:42 AM][SearchAgent.Update]: [South,East,South,South,South,West,West,South,East,East,West,West,North,East,East,East,North,West,North,North,West,North,North,East,South,South,South,South,South,West,West,North,East,West,South,South,East,North,East,East,North,North,West,South,West,North,South,East,East,South,West,West,East,East,North,West,West,West,South,East,East,East,North,West,West,North,East,North,North,West,South,South,South,South]
+[4/2/2017 3:35:05 AM][SearchAgent.Start]: waiting on key !
+[4/2/2017 3:40:30 AM][SearchAgent.Start]: waiting on key !
+[4/2/2017 3:40:58 AM][SearchAgent.Start]: waiting on key !
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:40:59 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:00 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:01 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:02 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Visited: 16067
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Expanded: 46558
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:03 AM][SearchAgent.Update]: Visit[4/2/2017 3:41:10 AM][SearchAgent.Start]: waiting on key !
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:41:11 AM][SearchAgent.Update]: Building solution path
+[4/2[4/2/2017 3:41:22 AM][SearchAgent.Start]: waiting on key !
+[4/2/2017 3:41:35 AM][SearchAgent.Update]: Visited: 708161
+[4/2/2017 3:41:35 AM][SearchAgent.Update]: Expanded: 1964594
+[4/2/2017 3:41:35 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:41:35 AM][SearchAgent.Update]: Saving path!
+[4/2/2017 3:41:35 AM][SearchAgent.Update]: done.. !
+[4/2/2017 3:41:35 AM][SearchAgent.Update]: [South,East,South,South,South,West,West,North,East,East,North,North,West,South,South,South,North,North,North,North,North,East,South,South,South,South,North,East,South,South,West,West,North,West,South]
+[4/2/2017 3:42:14 AM][SearchAgent.Start]: waiting on key !
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:15 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:16 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Visited: 18844
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Expanded: 54479
+[4/2/2017 3:42:17 AM][SearchAgent.Update]: Building solution path
+[4/2/2017 3:42:17 AM][Se[4/2/2017 3:42:44 AM][SearchAgent.Start]: waiting on key !
+[4/2/2017 3:45:33 AM][SearchAgent.Start]: waiting on key !
